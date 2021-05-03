@@ -1,5 +1,6 @@
 {
     "name": "scorpion",
+    "version": "0.0.1",
     "displayName": "Scorpion Theme",
     "publisher": "Tudor Alexandru",
     "author": {
@@ -8,17 +9,21 @@
         "url": "https://github.com/tudorale"
     },
     "icon": "./images/icon.png",
+    "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/tudorale/scorpion-theme"
+        "url": "https://github.com/tudorale/scorpion-theme.git"
     },
     "description": "A professional looking good scorpion theme that will make your eyes relaxed for coding.",
-    "version": "0.0.1",
+    
     "engines": {
-        "vscode": "^0.10.5"
+        "vscode": "^1.13.0"
     },
     "categories": [
         "Themes"
+    ],
+    "maintainers": [
+        "Tudor Alexandru <tudorale2005@gmail.com>"
     ],
     "keywords": [
 		"Scorpion",
@@ -28,6 +33,7 @@
 		"Coding theme",
 		"Relaxing theme",
         "Professional theme"
+        "color-theme",
 	],
     "contributes": {
         "themes": [
