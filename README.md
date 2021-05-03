@@ -1,4 +1,7 @@
 <h1>Scorpion Theme for Visual Studio Code</h1>
+
+<img alt="APM" src="https://img.shields.io/apm/l/vim-mode?style=flat-square">  <img alt="GitHub package.json version (branch)" src="https://img.shields.io/github/package-json/v/tudorale/scorpion-theme/main?style=flat-square"> <img alt="Visual Studio Marketplace Installs - Azure DevOps Extension" src="https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/TudorAlexandru.scorpion?style=flat-square"> <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2022?style=flat-square">
+
 <p>A professional looking good theme for VS Code that will make your eyes relaxed for coding, it has as the main color a shade of purple-pink, and 3 other different colors that will go perfect with the purple; Mainly made for web developers.</p>
 
 <h2>Preview</h2>
