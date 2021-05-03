@@ -2,7 +2,7 @@
 <b>A professional looking good theme for VS Code that will make your eyes relaxed for coding, it has as the main color a shade of purple-pink, and 3 other different colors that will go perfect with the purple.</b>
 
 <h2>Preview</h2>
-<img src="./images/theme.png" alt="Scorpion Theme on VS Code"}/>
+<img src="./images/theme.png" alt="Scorpion Theme on VS Code"/>
 
 <h2>Install</h2>
 <p>You can install the theme by going into the "Extensions" menu in the Visual Studio Code or by going to the Microsoft Marketplace and install it from there, do not forget to leave a review, thanks :)
@@ -22,4 +22,4 @@
 </ol>
 
 <h2>License</h2>
-<p>The theme is running under the <a href="">MIT License</a></p>
+<p>The theme is running under the <a href="./LICENSE">MIT License</a></p>
