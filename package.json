@@ -1,6 +1,6 @@
 {
     "name": "scorpion",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Scorpion Theme",
     "publisher": "TudorAlexandru",
     "author": {
@@ -29,10 +29,8 @@
 		"Scorpion",
         "Scorpion Theme",
 		"Dark Theme",
-		"VSCode Theme",
 		"Coding theme",
 		"Relaxing theme",
-        "Professional theme",
         "color-theme"
 	],
     "contributes": {
