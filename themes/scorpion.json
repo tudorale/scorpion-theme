@@ -250,11 +250,12 @@
 		"terminalCursor.background": "#bd56e3",
 		"terminalCursor.foreground": "#bd56e3",
   
+		// git stuff, affects color for text on the files section
 		"gitDecoration.modifiedResourceForeground": "#bd56e3", 
-		"gitDecoration.deletedResourceForeground": "#EC3A37F5",
-		"gitDecoration.untrackedResourceForeground": "#3AD900", 
-		"gitDecoration.ignoredResourceForeground": "#222b4d", 
-		"gitDecoration.conflictingResourceForeground": "#FF7200", 
+		"gitDecoration.deletedResourceForeground": "#fa4743",
+		"gitDecoration.untrackedResourceForeground": "#55ff17", 
+		"gitDecoration.ignoredResourceForeground": "#5a6a9e", 
+		"gitDecoration.conflictingResourceForeground": "#ff8b2e", 
   
 		"textBlockQuote.background": "#222b4d",
 		"textBlockQuote.border": "#bd56e3",
