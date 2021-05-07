@@ -1,6 +1,6 @@
 {
     "name": "scorpion",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "displayName": "Scorpion Theme",
     "publisher": "TudorAlexandru",
     "author": {
@@ -14,7 +14,7 @@
         "type": "git",
         "url": "https://github.com/tudorale/scorpion-theme"
     },
-    "description": "A professional looking good scorpion theme that will make your eyes relaxed for coding.",
+    "description": "A professional and a colorful dark theme for your VS Code",
     
     "engines": {
         "vscode": "^1.13.0"
@@ -31,7 +31,7 @@
 		"Dark Theme",
 		"Coding theme",
 		"Relaxing theme",
-        "color-theme"
+        "Colorful theme"
 	],
     "contributes": {
         "themes": [

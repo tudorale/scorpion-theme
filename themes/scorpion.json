@@ -38,9 +38,9 @@
 		"badge.background": "#bd56e3", // Unsaved files badge
 		"badge.foreground": "#fff",
   
-		"button.background": "#1b2340", // all the buttons on the VS Code button.
-		"button.foreground": "#8393c9",
-		"button.hoverBackground": "#222b4d",
+		"button.background": "#bd56e3", // all the buttons on the VS Code button.
+		"button.foreground": "#fff",
+		"button.hoverBackground": "#d570fa", // lighter main color
   
 		"descriptionForeground": "#8393c9", 
 		"selection.background": "#222b4d",
@@ -89,11 +89,11 @@
 		"editorGutter.modifiedBackground": "#AD70FC46",
 
 		"editorGroup.border": "#222b4d",
-		"editorGroup.dropBackground": "#222b4d",
+		"editorGroup.dropBackground": "#2d385e",
 
 		"editorGroupHeader.noTabsBackground": "#222b4d",
 		"editorGroupHeader.tabsBackground": "#222b4d",
-		"editorGroupHeader.tabsBorder": "#222b4d",
+		"editorGroupHeader.tabsBorder": "#4d5b8c",
   
 		// the top tab with "File, edit" etc.
 		"tab.activeBackground": "#1b2340",
@@ -281,20 +281,21 @@
 		"breadcrumbPicker.background": "#222b4d", 
   
 		"settings.headerForeground": "#FFFFFF",
-		"settings.dropdownBackground": "#222b4d",
-		"settings.checkboxBackground": "#222b4d",
-		"settings.textInputBackground": "#222b4d",
-		"settings.numberInputBackground": "#222b4d",
+		"settings.dropdownBackground": "#2d385e",
+		"settings.checkboxBackground": "#2d385e",
+		"settings.textInputBackground": "#2d385e",
+		"settings.numberInputBackground": "#2d385e",
 		"settings.dropdownForeground": "#8393c9",
 		"settings.checkboxForeground": "#8393c9",
 		"settings.textInputForeground": "#8393c9",
 		"settings.numberInputForeground": "#8393c9",
-		"settings.dropdownBorder": "#222b4d",
-		"settings.checkboxBorder": "#222b4d",
-		"settings.textInputBorder": "#222b4d",
-		"settings.numberInputBorder": "#222b4d",
-		"settings.dropdownListBorder": "#303a5e",
+		"settings.dropdownBorder": "#2d385e",
+		"settings.checkboxBorder": "#2d385e",
+		"settings.textInputBorder": "#2d385e",
+		"settings.numberInputBorder": "#2d385e",
+		"settings.dropdownListBorder": "#2d385e",
 		"settings.modifiedItemIndicator": "#bd56e3",
+		"settings.focusedRowBackground": "#37436e",
   
 		"menu.separatorBackground": "#8393c9",
   
