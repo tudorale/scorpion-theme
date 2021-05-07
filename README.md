@@ -1,11 +1,8 @@
 <h1>Scorpion Theme for Visual Studio Code</h1>
 
-<img alt="APM" src="https://img.shields.io/apm/l/vim-mode?style=flat-square">  <img alt="GitHub package.json version (branch)" src="https://img.shields.io/github/package-json/v/tudorale/scorpion-theme/main?style=flat-square"> <img alt="Visual Studio Marketplace Installs - Azure DevOps Extension" src="https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/TudorAlexandru.scorpion?style=flat-square"> <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2022?style=flat-square"> <img alt="Visual Studio Marketplace Rating (Stars)" src="https://img.shields.io/visual-studio-marketplace/stars/tudoralexandru.scorpion?style=flat-square">
+<img alt="APM" src="https://img.shields.io/apm/l/vim-mode?style=flat-square"> <img alt="GitHub package.json version (branch)" src="https://img.shields.io/github/package-json/v/tudorale/scorpion-theme/main?style=flat-square"> <img alt="Visual Studio Marketplace Installs - Azure DevOps Extension" src="https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/TudorAlexandru.scorpion?style=flat-square"> <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2022?style=flat-square"> <img alt="Visual Studio Marketplace Rating (Stars)" src="https://img.shields.io/visual-studio-marketplace/stars/tudoralexandru.scorpion?style=flat-square">
 
-<p>A professional looking good theme for VS Code that will make your eyes relaxed for coding, it has as the main color a shade of purple-pink, and 3 other different colors that will go perfect with the purple; Mainly made for web developers.</p>
-
-<h2>Preview</h2>
-<img src="./images/theme.png" alt="Scorpion Theme on VS Code"/>
+<p>A professional and looking good colorful dark theme for VS Code that will make your eyes relaxed for coding, it has as the main color a shade of purple-pink, and 3 other different colors that will go perfect with the purple; Mainly made for web developers, the theme will get updates when is necessary.</p>
 
 <h2>Install</h2>
 <p>You can install the theme by going into the "Extensions" menu in the Visual Studio Code and search for "Scorpion Theme" or by going to the Microsoft Marketplace and install it from there, do not forget to leave a review, thanks :)
