@@ -43,7 +43,7 @@
 		"button.hoverBackground": "#d570fa", // lighter main color
   
 		"descriptionForeground": "#8393c9", 
-		"selection.background": "#222b4d",
+		"selection.background": "#384473",
   
 		"dropdown.background": "#222b4d", // dropdowns 
 		"dropdown.border": "#1b2340",
@@ -59,8 +59,8 @@
 		"editor.inactiveSelectionBackground": "#384473", 
 		"editor.selectionHighlightBackground": "#384473",
 		"editor.linkedEditingBackground": "#ae46d4",
-		"editor.wordHighlightBackground": "#FFFFFF0D", 
-		"editor.wordHighlightStrongBackground": "#FFFFFF0D", 
+		"editor.wordHighlightBackground": "#384473", 
+		"editor.wordHighlightStrongBackground": "#AD70FC46", 
 		"editor.findMatchBackground": "#ff7300ab", 
 		"editor.findMatchHighlightBackground": "#FFFF0336", 
 		"editor.findRangeHighlightBackground": "#FFFF0336", 
@@ -184,6 +184,8 @@
 		"notifications.background": "#222b4d",
 		"notifications.border": "#303a5e", 
 		"notificationLink.foreground": "#FFFFFF", 
+
+		// terminal header
 		"panel.background": "#222b4d",
 		"panel.border": "#bd56e3",
 		"panelTitle.activeBorder": "#bd56e3",
@@ -247,8 +249,8 @@
 		"terminal.ansiBrightWhite": "#FFFFFF",
 		"terminal.background": "#222b4d",
 		"terminal.foreground": "#FFFFFF",
-		"terminalCursor.background": "#bd56e3",
-		"terminalCursor.foreground": "#bd56e3",
+		"terminalCursor.background": "#AD70FC46",
+		"terminalCursor.foreground": "#AD70FC46",
   
 		// git stuff, affects color for text on the files section
 		"gitDecoration.modifiedResourceForeground": "#bd56e3", 
@@ -280,6 +282,7 @@
 		"breadcrumb.activeSelectionForeground": "#FFFFFF",
 		"breadcrumbPicker.background": "#222b4d", 
   
+		
 		"settings.headerForeground": "#FFFFFF",
 		"settings.dropdownBackground": "#2d385e",
 		"settings.checkboxBackground": "#2d385e",
@@ -299,7 +302,7 @@
   
 		"menu.separatorBackground": "#8393c9",
   
-		"editor.snippetTabstopHighlightBackground": "#bd56e3",
+		"editor.snippetTabstopHighlightBackground": "#AD70FC46",
 		"editor.snippetTabstopHighlightBorder": "#b14bd662",
 		"editor.snippetFinalTabstopHighlightBackground": "#b14bd6",
 		"editor.snippetFinalTabstopHighlightBorder": "#b14bd6",
