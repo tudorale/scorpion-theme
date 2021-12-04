@@ -30,5 +30,5 @@
 
 <h2>Author</h2>
 <p>This theme is maintained by Tudor Alexandru, below you will have some links where you can find me.</p>
-<p>Portfolio: https://tudorale.github.io/portfolio/</p>
+<p>Portfolio: https://tudoralexandru.vercel.app</p>
 <p>GitHub: https://github.com/tudorale</p>
